@@ -29,6 +29,9 @@ The system consists of three core components:
   ## 🚀 How to Run
 1. **Compile the servers:**
    gcc server.c -o server -lpthread
+   
    gcc interface.c -o interface -lpthread
+
    gcc client.c -o client
+
    make sure each file is running on different terminal
