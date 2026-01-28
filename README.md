@@ -40,3 +40,6 @@ The system consists of three core components:
 
 ## an Output Example:
 <img width="1910" height="1016" alt="image" src="https://github.com/user-attachments/assets/9e5adf57-6191-47a6-800e-049bb3f8f5e1" />
+
+
+<img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/c951bdb0-e0bd-4068-ad0e-8a537c1b01d7" />
